@@ -36,9 +36,9 @@ sentencepiece==0.1.97
 six==1.16.0
 sniffio==1.3.0
 SpeechRecognition==3.9.0
-
+TensorRT
 tensorflow==2.11.0
-
+libnvinfer_plugin.so.7
 tensorflow-io-gcs-filesystem==0.29.0
 termcolor==2.2.0
 tokenizers==0.13.2
